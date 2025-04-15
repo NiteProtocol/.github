@@ -4,7 +4,7 @@
 &nbsp;
 
 <div align="center">
-[![Static Badge](https://img.shields.io/badge/Nite-Protocol-1E1E20?style=for-the-badge&labelColor=808F85)](https://TODO.com/)
+![Static Badge](https://img.shields.io/badge/Nite-Protocol-1E1E20?style=for-the-badge&labelColor=808F85)
 </div>
 
 <!-- Organization/Project Social Handles -->
