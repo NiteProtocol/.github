@@ -15,10 +15,7 @@
 &nbsp;&nbsp;
 <!-- X (formerly Twitter) --><a href="https://x.com/TODO"><img src="https://img.shields.io/twitter/follow/TODO" alt="X (formerly Twitter) Badge"/></a>
 &nbsp;&nbsp;
-<!-- Discord --><a href="https://TODO"><img src="https://img.shields.io/discord/995968619034984528?style=flat&logo=discord&logoColor=white&logoSize=auto&label=Discord&labelColor=5865F2&color=57F287" alt="Discord Badge"/></a>
-&nbsp;&nbsp;
 
-&nbsp;
 <p align="center">
   <strong>
     Unstoppable and Autonomous <br />
