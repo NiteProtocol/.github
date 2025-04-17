@@ -64,7 +64,7 @@ The Nite Protocol's code uses two licenses:
    * TUL is a variation of GPL v3 with the additional condition that TRVL utility must be preserved and cannot be removed from the code.
    * This license applies to all smart contracts that provides utility to TRVL.
 
-Each repo contains a `LICENSE` file, unambiguously specifying which license applies to the code contained in the repo.
+Each repo contains a `LICENSE` file, unambiguously specifying which license applies to its code.
 
 
 ## Contributing
