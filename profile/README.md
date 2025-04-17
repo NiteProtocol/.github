@@ -26,13 +26,30 @@
 
 ---
 
-## The Nite Protocol's Mission and Philosophy
+## The Nite Protocol's Philosophy
 
-TODO
+_Through travel, we should be able to experience the world authentically and directly._
+
+From this principle, a few things follow:
+1. Travelers and locals should be free to connect on their own terms, reflecting their unique cultures and circumstances.
+2. Financial exchanges between them should be free from capture by centralized intermediaries.
+
+And yet, centralized travel platforms continue to move us in the opposite direction. They:
+1. Dictate how locals and travelers should interact.
+2. Enforce rigid terms for how people can rent their own homes.
+3. Extract a disproportionate share of the value from transactions —- often harming local economies.
+4. Reduce the online travel experience to a uniform, sanitized interface -— one that favors platform aesthetics over the world’s natural exuberance.
+
+The diversity of the world is boundless and ever-changing. The only way to reflect that richness is to keep the system open so that travelers and locals can shape the tools themselves, and adapt them to their needs as they evolve. The possibilities become endless.
+
+That’s the path the Nite Protocol is taking.
+It’s a journey off the beaten track as the best ones tend to be.
+
+
 
 ## The TRVL Token
 
-**TRVL** is the utility token of the Nite Protocol. To know more about it, read [TRVL.md](https://github.com/NiteProtocol/Info/blob/main/TRVL.md).
+**TRVL** is the utility token of the Nite Protocol and a currency for Travel. To know more about it, read [TRVL.md](https://github.com/NiteProtocol/Info/blob/main/TRVL.md).
 
 
 ## Repos
