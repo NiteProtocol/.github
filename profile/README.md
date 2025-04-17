@@ -32,7 +32,7 @@ TODO
 
 ## The TRVL Token
 
-**TRVL** is the utility token of the Nite Protocol. To know more about it, read [github.com/NiteProtocol/Info/TRVL.md](https://github.com/NiteProtocol/Info/TRVL.md).
+**TRVL** is the utility token of the Nite Protocol. To know more about it, read [TRVL.md](https://github.com/NiteProtocol/Info/blob/main/TRVL.md).
 
 
 ## Repos
@@ -49,22 +49,25 @@ The Nite Protocol also has the following auxiliary repos:
 
 * [Pledge](https://github.com/NiteProtocol/Pledge) - Smart contracts to lock TRVL for a period of time and with a withdrawal delay upon unlocking.
 * [Pledge-Frontend](https://github.com/NiteProtocol/Pledge-Frontend) - Frontend for pledging TRVL.
-* [Brand](https://github.com/NiteProtocol/Brand) - Brand assets and guidelines.
+* [Info](https://github.com/NiteProtocol/Info) - General information about the Nite Protocol, such as:
+    - brand assets and guidelines.
+    - the TRVL token.
+    - licenses.
 
 *Note:* Some of the repos mentioned above are still under active development. Please check each repo's README to grasp its maturity level.
 
 ## Licenses
 
-The Nite Protocol's code uses two licenses:
+The Nite Protocol adopts two licenses:
 
-* [GPL v3](https://github.com/NiteProtocol/Licenses/GPL)
+* [GPL v3](https://github.com/NiteProtocol/Info/blob/main/Licenses/GPL-v3.txt)
    * GPL v3 is a free software license that allows users to modify, distribute, and use software, with the condition that any derivative works also be licensed under the GPL v3 and that the source code is made available.
    * This license applies to all frontends as well as to smart contracts that do not relate to TRVL utility.
-* [Token Utility License](https://github.com/NiteProtocol/Licenses/TUL)
+* [Token Utility License](https://github.com/NiteProtocol/Info/blob/main/Licenses/TODO.txt)
    * TUL is a variation of GPL v3 with the additional condition that TRVL utility must be preserved and cannot be removed from the code.
    * This license applies to all smart contracts that provide utility to TRVL.
 
-Each repo contains a `LICENSE` file, unambiguously specifying which license applies to its code.
+Each repo contains a `LICENSE` file, unambiguously specifying which license applies to its content.
 
 
 ## Contributing
