@@ -13,7 +13,7 @@
 <p align="center">
 <!-- Telegram --><a href="https://t.me/1308561754/1"><img src="https://img.shields.io/badge/Telegram-black?style=flat&logo=telegram&logoColor=white&logoSize=auto&color=24A1DE" alt="Telegram Badge"/></a>
 &nbsp;&nbsp;
-<!-- X (formerly Twitter) --><a href="https://x.com/dtraveldao"><img src="https://img.shields.io/twitter/follow/Nite Protocol" alt="X Badge"/></a>
+<!-- X (formerly Twitter) --><a href="https://x.com/dtraveldao"><img src="https://img.shields.io/twitter/follow/DtravelDAO" alt="X Badge"/></a>
 &nbsp;&nbsp;
 
 <p align="center">
